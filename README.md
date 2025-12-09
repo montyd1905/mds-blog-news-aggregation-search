@@ -114,4 +114,8 @@ For a production workflow there are some additional considerations, of course, s
 - Adding an **Agentic (LLM) workflow** for query improvement when a user-supplied query is vague/low-quality and cannot generate NER primitives for a Boolean search. This will require previous context saved in the vector database.
 
 
+## Reference Code
 
+You can find code for this project on [Github](https://github.com/montyd1905/mds-blog-news-aggregation-search/tree/main).
+
+The main source code is in the [src](https://github.com/montyd1905/mds-blog-news-aggregation-search/tree/main/src) folder while the examples can be found in the [examples](https://github.com/montyd1905/mds-blog-news-aggregation-search/tree/main/examples) folder.
